@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "Viraj",
+      "body": "I am the Dad...",
+      "id": "1",
+      "details": "I am working for GE Healtchare company. I work in the IT organisation. I have been working for 14 years now. I like sports, traveling and reading about personal finance and geo-politics"
+    },
+    {
+      "title": "Khushboo",
+      "body": "I am the Mom...",
+      "id": "2",
+      "details": "I am working for RadusTeck Services. I work in the Finance organisation. I have been working for 11 years now. I like badmington, binge-watching, traveling and craft work"
+    },
+    {
+      "title": "Nyra",
+      "body": "I am the Big Sis...",
+      "id": "3",
+      "details": "I am 6 years old. I am in grade 1 and I go to Brooks Crossing Elementary School. I like biking, reading books and playing with my friends."
+    },
+    {
+      "title": "Nishi",
+      "body": "I am the Li'l Sis",
+      "id": "4",
+      "details": "I am 2 years old. I will be going to Deans Elementary School. I like to be naughty, throw things around and pee in my pants"
+    },
+    {
+      "title": "Oreo",
+      "body": "I am the upcoming pet of the house...",
+      "id": "5",
+      "details": "I am the youngest child of the fimlay. I am 1 year old dog. I will be joining the family soon."
+    }
+  ]
+}
